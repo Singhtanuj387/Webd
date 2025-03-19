@@ -1,0 +1,275 @@
+.nav-link{
+    margin-left: 77px;
+}
+.navbar-nav{
+    margin-right: 25px;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+.img3{
+    margin-left: 4.375rem;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FA4A0C;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #252B42 ;
+    font-weight: 600;
+}
+
+
+
+.Rectangle48{
+    width:100%;
+    height:619px;
+    background-image: url('../public/Rectangle48.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Rectangle48 p{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    color: #F6F6F6;
+    padding-top: 4.5rem;
+}
+
+.Rectangle48 h4{
+    font-weight: 500;
+    text-align: center;
+    color: #F6F6F6;
+    padding-top: 2rem;
+}
+
+.Rectangle48 h1{
+    font-weight: 700;
+    font-size: 58px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.btn1{
+    display: flex;
+    justify-content: center;    
+    padding-top: 2rem;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+    margin: 1rem;
+    border-radius: 1.875rem;
+    padding: 1rem 2.5rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:#FA4A0C;
+    border-color: #FA4A0C;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: transparent;
+    border-color:#565e64;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: transparent;
+    border-color:#565e64;
+}
+
+.btn-secondary {
+    color: #fff;
+background-color:transparent;
+}
+
+
+.Group53{   
+    width: 100%;
+    height: 640px;
+    display: flex;
+    justify-content: center;
+}
+
+.Group54{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.Group54 hr{
+    width: 55.25rem;
+    color:#E4E4E4;  
+    border-width: 3px; 
+    border-style: solid;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 44px;
+}
+
+.Group55{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.Rectangle1{
+    width: 50%;
+    text-align: center;
+}
+
+.Rectangle2{
+    padding-top: 17rem;
+}
+
+.Rectangle2 h3 {
+    font-weight: 700;
+    color: #FA4A0C;
+    padding-bottom: 10px;
+}
+.Rectangle2 h2 {
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: #252B42;
+}
+.Rectangle2 h4 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 400;
+    color: #737373;
+}
+
+
+
+
+.Group56{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.Rectangle3{
+    width: 50%;
+    text-align: center;
+}
+
+.Rectangle3 img{
+    padding-left: 16rem;
+}
+
+.Rectangle4{
+    padding-top: 17rem;
+}
+
+.Rectangle4 h3 {
+    font-weight: 700;
+    color: #FA4A0C;
+    padding-bottom: 10px;
+}
+.Rectangle4 h2 {
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: #252B42;
+}
+.Rectangle4 h4 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 400;
+    color: #737373;
+}
+
+
+
+
+.Group57{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.Rectangle5{
+    width: 50%;
+    text-align: center;
+}
+
+.Rectangle6{
+    padding-top: 17rem;
+}
+ 
+.Rectangle6 h3 {
+    font-weight: 700;
+    color: #FA4A0C;
+    padding-bottom: 10px;
+}
+.Rectangle6 h2 {
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: #252B42;
+}
+.Rectangle6 h4 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 400;
+    color: #737373;
+}
+
+
+.Rectangle49{
+    width:100%;
+    height:509px;
+    background-image: url('../public/Rectangle47.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Rectangle49 h4{
+    font-weight: 500;
+    text-align: center;
+    color: #F6F6F6;
+    padding-top: 1rem;
+    font-size: 24px;
+}
+
+.Rectangle49 h2{
+    padding-top: 9rem;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color:#FFFFFF;
+}
+.ftext{
+    font-weight: 700;
+    font-size: 12px;
+    color: #5C5C5C;
+    margin-left: 20rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    display: flex;
+}
+
+.imgbella{
+    margin-right: 20rem;
+    margin-top: 2rem;
+}
+.img4{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.img5{
+    margin-right: 2rem;
+}
